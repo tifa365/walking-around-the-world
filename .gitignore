@@ -1,3 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!index.html
+
+
 # History files
 .Rhistory
 .Rapp.history
